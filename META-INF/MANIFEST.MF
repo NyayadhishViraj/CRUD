@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: springBootCRUDProject
+Bundle-SymbolicName: springBootCRUDProject
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: springBootCRUDProject
+Export-Package: com.example.demo,
+ com.spring,
+ com.spring.binding,
+ com.spring.repo,
+ com.spring.rest,
+ com.spring.service
